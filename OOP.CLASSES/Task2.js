@@ -33,7 +33,7 @@ class Marker {
 
 class RefilableMarker extends Marker {
 
-  constructor(colour, initialAmountOfInc) {
+  constructor(colour) {
     super(colour);
   }
 
